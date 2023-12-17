@@ -2,7 +2,7 @@
 <p align="center">I make web applications and love to learn new technologies.</p>
 
 ## SmoothSail 🎏
-Most recently I built SmoothSail, a self-hosted open-source feature flag management tool for decoupling deployment from release with user targeting capabilities.
+Most recently I built SmoothSail, a self-hosted, open-source feature flag tool designed for small companies aiming for rapid feature development with minimized risks. It empowers developers to separate the release of new features from their deployment and quickly revert unsuccessful updates with just a click. SmoothSail provides accurate user targeting capabilities, enabling engineers to introduce new features to specific demographics and limit the impact of unforeseen bugs in production.
 
 ✨ [Read SmoothSail Case Study](https://smooth-sail.github.io/#/case-study)
 
