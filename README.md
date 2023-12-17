@@ -1,8 +1,12 @@
 <h1 align="center">What's up?, I'm Brad! 👋</h1>
 <p align="center">I make web applications and love to learn new technologies.</p>
 
-Most recently I built SmoothSail, an open-source feature flag management tool for decoupling deployment from release with user targeting capabilities.
-[Read SmoothSail Case Study](https://smooth-sail.github.io/#/case-study)
+## SmoothSail 🎏
+Most recently I built SmoothSail, a self-hosted open-source feature flag management tool for decoupling deployment from release with user targeting capabilities.
+
+✨ [Read SmoothSail Case Study](https://smooth-sail.github.io/#/case-study)
+
+✨ [SmoothSail Github](https://github.com/smooth-sail)
 
 ## Most used technologies
 <p align="center">
