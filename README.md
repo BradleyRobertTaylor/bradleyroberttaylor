@@ -1,4 +1,4 @@
-<h1 align="center">What's up?, I'm Brad! 👋</h1>
+<h1 align="center">What's up? I'm Brad! 👋</h1>
 <p align="center">I make web applications and love to learn new technologies.</p>
 
 ## SmoothSail ⛵
