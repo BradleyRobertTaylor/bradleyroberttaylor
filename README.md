@@ -1,17 +1,20 @@
 <h1 align="center">What's up? I'm Brad! 👋🏾</h1>
-<h3 align="center">I make web applications and love to learn new technologies.</h3>
 
-## SmoothSail ⛵
-Most recently I built SmoothSail, a self-hosted, open-source feature flag tool designed for small companies aiming for rapid feature development with minimized risks. It empowers developers to separate the release of new features from their deployment and quickly revert unsuccessful updates with just a click. SmoothSail provides accurate user targeting capabilities, enabling engineers to introduce new features to specific demographics and limit the impact of unforeseen bugs in production.
+<p align="center">
+<a href="https://brad-taylor.com"><img src="https://img.shields.io/badge/-brad--taylor.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bradleyroberttaylor/"><img src="https://img.shields.io/badge/-Bradley%20Taylor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:taylorbradleyr@gmail.com"><img src="https://img.shields.io/badge/-taylorbradleyr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
-👉🏾 [Read SmoothSail Case Study](https://smooth-sail.github.io/#/case-study)
+<p align="center">I make web applications and love to learn new technologies.</p>
 
-👉🏾 [SmoothSail Github](https://github.com/smooth-sail)
+## 💻 Currently Working On:
+- Building backend services @ [Qlik AutoML](https://www.qlik.com/us/products/qlik-automl)
 
-## Most used technologies
+## 🛠 Tech Stack:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,ruby,go,react,nextjs,tailwindcss,nodejs,express,git,docker,linux,vim" alt="TypeScript, JavaScript, Ruby, Go, React, Next.js, TailwindCSS, Node.js, Express, Git, Docker, Linux, Vim">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,ruby,react,nextjs,tailwindcss,nodejs,express,postgres,graphql,docker" alt="TypeScript, JavaScript, Python, Go, Ruby, React, Next.js, TailwindCSS, Node.js, Express, Postgres, GraphQL, Docker">
   </a>
 </p>
 
