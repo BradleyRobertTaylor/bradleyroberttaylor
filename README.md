@@ -1,7 +1,7 @@
 # What's up? I'm Brad! 👋🏾
 
 
-<a href="https://brad-taylor.com"><img src="https://img.shields.io/badge/-brad--taylor.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://bradtaylor.codes"><img src="https://img.shields.io/badge/-bradtaylor.codes-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bradleyroberttaylor/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat"/></a>
 <a href="mailto:taylorbradleyr@gmail.com"><img src="https://img.shields.io/badge/-taylorbradleyr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
